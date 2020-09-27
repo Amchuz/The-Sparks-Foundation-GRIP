@@ -23,3 +23,17 @@
 ### <a href="https://github.com/Amchuz/The-Sparks-Foundation-GRIP/blob/master/Task_3/unsupervised.py">Code</a> | <a href="https://youtu.be/YEsKAu0Rzng">Video</a> 
   
 <img src="https://github.com/Amchuz/The-Sparks-Foundation-GRIP/blob/master/Task_3/unsupervised.gif">
+<br />
+  
+## Task 4 : Explore Decision Tree Algorithm
+  
+### <a href="https://github.com/Amchuz/The-Sparks-Foundation-GRIP/blob/master/Task_4/DT.py">Code</a> | <a href="https://youtu.be/-GF14HkBOU0">Video</a> 
+  
+<img src="https://github.com/Amchuz/The-Sparks-Foundation-GRIP/blob/master/Task_4/dt.gif">
+<br />
+  
+## Task 3 : Explore Unsupervised Machine Learning
+  
+### <a href="https://github.com/Amchuz/The-Sparks-Foundation-GRIP/blob/master/Task_3/unsupervised.py">Code</a> | <a href="https://youtu.be/YEsKAu0Rzng">Video</a> 
+  
+<img src="https://github.com/Amchuz/The-Sparks-Foundation-GRIP/blob/master/Task_3/unsupervised.gif">

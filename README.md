@@ -16,3 +16,10 @@
 ### <a href="https://github.com/Amchuz/The-Sparks-Foundation-GRIP/blob/master/Task_2/Supervised.py">Code</a> | <a href="https://youtu.be/mb1_IR7pCA0">Video</a> 
   
 <img src="https://github.com/Amchuz/The-Sparks-Foundation-GRIP/blob/master/Task_2/supervised.gif">
+<br />
+  
+## Task 3 : Explore Unsupervised Machine Learning
+  
+### <a href="https://github.com/Amchuz/The-Sparks-Foundation-GRIP/blob/master/Task_3/unsupervised.py">Code</a> | <a href="https://youtu.be/YEsKAu0Rzng">Video</a> 
+  
+<img src="https://github.com/Amchuz/The-Sparks-Foundation-GRIP/blob/master/Task_3/unsupervised.gif">
